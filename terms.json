@@ -1,0 +1,5 @@
+{
+  "whitelist": "allowlist",
+  "blacklist": "blocklist",
+  "simply": "a direct instruction without this qualifier"
+}
