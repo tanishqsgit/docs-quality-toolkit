@@ -1,7 +1,7 @@
 # Draft documentation with a human accuracy gate
 
 This sample workflow demonstrates a review process. It has not been piloted by
-Cohesity and does not use or reproduce its internal templates or style guide.
+an employer and does not reproduce proprietary templates or internal style guides.
 
 ## Prepare approved evidence
 

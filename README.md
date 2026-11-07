@@ -4,8 +4,10 @@ A small Python tool for checking Markdown before review. It catches missing loca
 link targets, missing topic titles, and optional metadata omissions. A configurable
 terminology check flags wording for a writer to assess.
 
-This repository previously held practice notes. The toolkit is a new, AI-assisted
-portfolio project, not a production deployment or an employer-owned tool.
+**Stack:** Python standard library · Markdown · unittest · GitHub Actions
+
+The toolkit is an AI-assisted portfolio project. Its automated checks run locally
+without third-party packages, network access, or API credentials.
 
 ## Quickstart
 
@@ -38,7 +40,8 @@ python check_docs.py examples --terms terms.json --strict
 ```
 
 `--strict` makes terminology warnings fail the run. The sample terminology list is
-an independent example; it does not represent the Cohesity style guide.
+an independent example. Replace it with your team's approved terminology before
+using it as a policy check.
 
 ## How it works
 
