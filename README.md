@@ -27,6 +27,7 @@ Follow the [task-based quickstart](examples/quickstart.md) for an example workfl
 
 ## Checks
 
+
 | Check | Default behavior | What the writer should do |
 | --- | --- | --- |
 | Topic title | Error if no level-one heading exists | Identify the topic clearly |
